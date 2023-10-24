@@ -1,1 +1,4 @@
 /.idea
+stats_db.db
+/archive/*
+log.csv
